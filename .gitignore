@@ -3,3 +3,4 @@ _Resharper*
 *.user
 \bin
 \obj
+\packages
